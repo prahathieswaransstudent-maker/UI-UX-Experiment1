@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <rect width="1200" height="430" rx="24" fill="#f8fafc"/>
+  <text x="600" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#0f172a">UI vs UX</text>
+
+  <rect x="70" y="90" width="450" height="250" rx="20" fill="#dbeafe"/>
+  <rect x="680" y="90" width="450" height="250" rx="20" fill="#dcfce7"/>
+  <circle cx="295" cy="145" r="35" fill="#2563eb"/>
+  <circle cx="905" cy="145" r="35" fill="#16a34a"/>
+  <text x="295" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#fff">UI</text>
+  <text x="905" y="155" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#fff">UX</text>
+
+  <text x="295" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#1e3a8a">HOW IT LOOKS &amp; FEELS</text>
+  <text x="295" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">Layout  •  Typography  •  Color</text>
+  <text x="295" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">Icons  •  Buttons  •  Feedback</text>
+  <text x="295" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">Visual Consistency</text>
+
+  <text x="905" y="210" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#166534">HOW IT WORKS &amp; HELPS</text>
+  <text x="905" y="248" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">Research  •  Architecture  •  Flows</text>
+  <text x="905" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">Usability  •  Accessibility  •  Testing</text>
+  <text x="905" y="308" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#334155">User Satisfaction</text>
+
+  <text x="600" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#475569">Better Together: a useful experience delivered through a clear interface</text>
+</svg>
